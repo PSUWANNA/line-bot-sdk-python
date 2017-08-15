@@ -1,0 +1,15 @@
+{
+  "name": "line-bot-sdk-python",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
